@@ -46,16 +46,16 @@ https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8|Referer=https%3A%2F%2Fchimeracu
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="UNITED KINGDOM",TNT Sports 4 UK
 https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-brasil.png" group-title="BRAZIL",TNT Brazil
+#EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/800px-TNT_Sports_Logo.svg.png" group-title="BRAZIL",TNT Brazil
 https://windnew.newkso.ru/wind/premium87/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-ar.png" group-title="ARGENTINA",TNT Sports Argentina
+#EXTINF:-1 tvg-id="test" tvg-logo="https://brandlogos.net/wp-content/uploads/2022/04/tnt_sports-logo-brandlogos.net_.png" group-title="ARGENTINA",TNT Sports Argentina
 https://ddy6new.newkso.ru/ddy6/premium388/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-hd-chile.png" group-title="CHILE",TNT Sports HD Chile
 https://dokko1new.newkso.ru/dokko1/premium642/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-usa.png" group-title="UNITED STATES",TNT USA
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://pbs.twimg.com/profile_images/1747995148565319680/119gI_x2_400x400.jpg" group-title="UNITED STATES",TNT USA
 https://zekonew.newkso.ru/zeko/premium338/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 
