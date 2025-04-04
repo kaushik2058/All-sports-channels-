@@ -24,10 +24,11 @@ https://dokko1new.newkso.ru/dokko1/premium368/mono.m3u8|Referer=https%3A%2F%2Fch
 https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/a-sport-pk.png" group-title="PAKISTAN",A Sport PK
-https://ddy6new.newkso.ru/ddy6/premium269/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/3gcbW9w.png" group-title="All Channels",PTV Sports
-https://new1daddycdn.nayeem-parvez.workers.dev/450.m3u8
+https://bdcast-free.b-cdn.net/live/ssports.m3u8
 
 
 
