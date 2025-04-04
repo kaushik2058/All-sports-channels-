@@ -20,7 +20,7 @@ https://ddy6new.newkso.ru/ddy6/premium369/mono.m3u8|Referer=https%3A%2F%2Fchimer
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-cricket.png" group-title="SOUTH AFRICA",SuperSport Cricket
 https://dokko1new.newkso.ru/dokko1/premium368/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ten-sports-pk.png" group-title="PAKISTAN",Ten Sports PK
+#EXTINF:-1 tvg-id="test" tvg-logo="https://gumlet-images.assettype.com/afaqs%2Fimport%2Fall%2Fnews%2Fimages%2Fnews_story_grfx%2F2015%2F44872_1_home_big.jpg?format=webp&w=480&dpr=2.6" group-title="PAKISTAN",Ten Sports PK
 https://ddy6new.newkso.ru/ddy6/premium741/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/a-sport-pk.png" group-title="PAKISTAN",A Sport PK
@@ -34,16 +34,16 @@ https://bdcast-free.b-cdn.net/live/ssports.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="UNITED KINGDOM",TNT Sports 1 UK
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="UNITED KINGDOM",TNT Sports 1 UK
 https://nfsnew.newkso.ru/nfs/premium31/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-2-uk.png" group-title="UNITED KINGDOM",TNT Sports 2 UK
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="UNITED KINGDOM",TNT Sports 2 UK
 https://nfsnew.newkso.ru/nfs/premium32/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-3-uk.png" group-title="UNITED KINGDOM",TNT Sports 3 UK
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="UNITED KINGDOM",TNT Sports 3 UK
 https://nfsnew.newkso.ru/nfs/premium33/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-4-uk.png" group-title="UNITED KINGDOM",TNT Sports 4 UK
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiv-vP9oxDjDxvt4wOaXhlcFHwwbtU7xkaec03D_PwImiWwtoM5dCOS0&s=10" group-title="UNITED KINGDOM",TNT Sports 4 UK
 https://nfsnew.newkso.ru/nfs/premium34/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 #EXTINF:-1 tvg-id="TNT(Portuguese).br" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-brasil.png" group-title="BRAZIL",TNT Brazil
