@@ -83,7 +83,7 @@ https://zekonew.newkso.ru/zeko/premium447/mono.m3u8|Referer=https%3A%2F%2Fchimer
 #EXTINF:-1 tvg-id="DAZN.4.es" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=gpg12e28xrnbz5mmgjrjnu99_image-header_pRow_1730196843000&quality=70" group-title="SPAIN",DAZN 4 Spain
 https://zekonew.newkso.ru/zeko/premium448/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRarpSnAkoK7bdwwPgxv1fBOVtjgni5w97hQIMLgygMQE7DYjRXAVeTG4gQiPa-HRC9R3A&usqp=CAU" group-title="SPAIN",DAZN F1 ES
+#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxQGNItYUmcOoEia7QCKzg2UjrkziP_S8fqA&s" group-title="SPAIN",DAZN F1 ES
 https://dokko1new.newkso.ru/dokko1/premium537/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 #EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-logo="https://images.seeklogo.com/logo-png/49/1/dazn-laliga-logo-png_seeklogo-490009.png" group-title="SPAIN",DAZN LaLiga
