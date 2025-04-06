@@ -235,8 +235,6 @@ https://dokko1new.newkso.ru/dokko1/premium620/mono.m3u8|Referer=https%3A%2F%2Fch
 https://dokko1new.newkso.ru/dokko1/premium621/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 
-#EXTINF:-1 tvg-id="Canal.TyC.Sports.ar" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tyc-sports-ar.png" group-title="ARGENTINA",TYC Sports Argentina
-https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 #EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tudn-usa.png" group-title="UNITED STATES",TUDN USA
 https://windnew.newkso.ru/wind/premium66/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
@@ -480,6 +478,64 @@ https://dokko1new.newkso.ru/dokko1/premium610/mono.m3u8|Referer=https%3A%2F%2Fch
 https://dokko1new.newkso.ru/dokko1/premium601/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 
+#EXTINF:-1 tvg-id="Canal.TyC.Sports.ar" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tyc-sports-ar.png" group-title="ARGENTINA",TYC Sports Argentina
+https://ddy6new.newkso.ru/ddy6/premium746/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-1.png" group-title="GREECE",Cosmote Sport 1 HD
+https://dokko1new.newkso.ru/dokko1/premium622/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.2.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-2.png" group-title="GREECE",Cosmote Sport 2 HD
+https://dokko1new.newkso.ru/dokko1/premium623/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.3.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-3.png" group-title="GREECE",Cosmote Sport 3 HD
+https://dokko1new.newkso.ru/dokko1/premium624/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.4.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-4.png" group-title="GREECE",Cosmote Sport 4 HD
+https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.5.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-5.png" group-title="GREECE",Cosmote Sport 5 HD
+https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.6.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-6.png" group-title="GREECE",Cosmote Sport 6 HD
+https://dokko1new.newkso.ru/dokko1/premium627/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.7.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-7.png" group-title="GREECE",Cosmote Sport 7 HD
+https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.8.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-8.png" group-title="GREECE",Cosmote Sport 8 HD
+https://dokko1new.newkso.ru/dokko1/premium629/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="COSMOTE.Sport.9.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-9.png" group-title="GREECE",Cosmote Sport 9 HD
+https://dokko1new.newkso.ru/dokko1/premium630/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="Diema.bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/diema.png" group-title="BULGARIA",Diema Bulgaria
+https://ddy6new.newkso.ru/ddy6/premium482/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="Diema.Family.bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/diema-family.png" group-title="BULGARIA",Diema Family Bulgaria
+https://windnew.newkso.ru/wind/premium485/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="DIEMA.SPORT.2.bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/diema-sport-2.png" group-title="BULGARIA",Diema Sport 2 Bulgaria
+https://windnew.newkso.ru/wind/premium466/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="DIEMA.SPORT.3.bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/diema-sport-3.png" group-title="BULGARIA",Diema Sport 3 Bulgaria
+https://windnew.newkso.ru/wind/premium467/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="DIEMA.SPORT.bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/diema-sport-bulgaria.png" group-title="BULGARIA",Diema Sport Bulgaria
+https://windnew.newkso.ru/wind/premium465/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -717,6 +773,67 @@ https://ddy6new.newkso.ru/ddy6/premium361/mono.m3u8|Referer=https%3A%2F%2Fchimer
 
 
 
+#EXTINF:-1 tvg-id="Canal.11.HD.pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/porto-canal-portugal.png" group-title="PORTUGAL",Canal 11 Portugal
+https://ddy6new.newkso.ru/ddy6/premium540/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="CANAL+.Family.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canalplusfamily.png" group-title="POLAND",Canal+ Family Poland
+https://dokko1new.newkso.ru/dokko1/premium567/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="Canal+.Foot.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-foot.png" group-title="FRANCE",Canal+ Foot France
+https://windnew.newkso.ru/wind/premium463/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="CANAL+.FORMULA1.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-formula1.png" group-title="FRANCE",Canal+ Formula 1
+https://zekonew.newkso.ru/zeko/premium273/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="CANAL+.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus.png" group-title="FRANCE",Canal+ France
+https://windnew.newkso.ru/wind/premium121/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="CANAL+.PREMIUM.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-premium.png" group-title="POLAND",Canal+ Premium Poland
+https://dokko1new.newkso.ru/dokko1/premium566/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="CANAL+.Seriale.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-seriale.png" group-title="POLAND",Canal+ Seriale Poland
+https://windnew.newkso.ru/wind/premium570/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-1-afrique.png" group-title="AFRICA",Canal+ Sport 1 Afrique
+https://ddy6new.newkso.ru/ddy6/premium486/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-2-afrique.png" group-title="AFRICA",Canal+ Sport 2 Afrique
+https://ddy6new.newkso.ru/ddy6/premium487/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-2-poland.png" group-title="POLAND",Canal+ Sport 2 Poland
+https://ddy6new.newkso.ru/ddy6/premium73/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-4-afrique.png" group-title="AFRICA",Canal+ Sport 4 Afrique
+https://ddy6new.newkso.ru/ddy6/premium489/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-5-afrique.png" group-title="AFRICA",Canal+ Sport 5 Afrique
+https://ddy6new.newkso.ru/ddy6/premium490/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-france.png" group-title="FRANCE",Canal+ Sport France
+https://windnew.newkso.ru/wind/premium122/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="CANAL+.Sport.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-poland.png" group-title="POLAND",Canal+ Sport Poland
+https://windnew.newkso.ru/wind/premium48/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="Canal+.Sport.360.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus.png" group-title="FRANCE",Canal+ Sport360
+https://windnew.newkso.ru/wind/premium464/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+
+#EXTINF:-1 tvg-id="CANAL+.MOTOGP.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus.png" group-title="FRANCE",CANAL+ MotoGP France
+https://zekonew.newkso.ru/zeko/premium271/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="CANAL+.Sport.5.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-5.png" group-title="POLAND",CANAL+ SPORT 5 Poland
+https://windnew.newkso.ru/wind/premium75/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="Canal9.dk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal9.png" group-title="DENMARK",CANAL9 Denmark
+https://dokko1new.newkso.ru/dokko1/premium805/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+#EXTINF:-1 tvg-id="Porto.Canal.HD.pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/porto-canal-portugal.png" group-title="PORTUGAL",Porto Canal Portugal
+https://ddy6new.newkso.ru/ddy6/premium718/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
+
+
+
 
 
 
@@ -862,14 +979,6 @@ https://nfsnew.newkso.ru/nfs/premium814/mono.m3u8|Referer=https%3A%2F%2Fchimerac
 #EXTINF:-1 tvg-id="C-SPAN.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/c-span-1.png" group-title="UNITED STATES",C SPAN 1
 https://windnew.newkso.ru/wind/premium750/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="CANAL+.MOTOGP.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus.png" group-title="FRANCE",CANAL+ MotoGP France
-https://zekonew.newkso.ru/zeko/premium271/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="CANAL+.Sport.5.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-5.png" group-title="POLAND",CANAL+ SPORT 5 Poland
-https://windnew.newkso.ru/wind/premium75/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="Canal9.dk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal9.png" group-title="DENMARK",CANAL9 Denmark
-https://dokko1new.newkso.ru/dokko1/premium805/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cbs-sports-golazo.png" group-title="UNITED STATES",CBS Sports Golazo
 https://zekonew.newkso.ru/zeko/premium910/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
@@ -910,50 +1019,6 @@ https://nfsnew.newkso.ru/nfs/premium280/mono.m3u8|Referer=https%3A%2F%2Fchimerac
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cw.png" group-title="UNITED STATES",CW USA
 https://zekonew.newkso.ru/zeko/premium300/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="Canal.11.HD.pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/porto-canal-portugal.png" group-title="PORTUGAL",Canal 11 Portugal
-https://ddy6new.newkso.ru/ddy6/premium540/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="CANAL+.Family.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canalplusfamily.png" group-title="POLAND",Canal+ Family Poland
-https://dokko1new.newkso.ru/dokko1/premium567/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="Canal+.Foot.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-foot.png" group-title="FRANCE",Canal+ Foot France
-https://windnew.newkso.ru/wind/premium463/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="CANAL+.FORMULA1.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-formula1.png" group-title="FRANCE",Canal+ Formula 1
-https://zekonew.newkso.ru/zeko/premium273/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="CANAL+.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus.png" group-title="FRANCE",Canal+ France
-https://windnew.newkso.ru/wind/premium121/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="CANAL+.PREMIUM.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-premium.png" group-title="POLAND",Canal+ Premium Poland
-https://dokko1new.newkso.ru/dokko1/premium566/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="CANAL+.Seriale.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-seriale.png" group-title="POLAND",Canal+ Seriale Poland
-https://windnew.newkso.ru/wind/premium570/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-1-afrique.png" group-title="AFRICA",Canal+ Sport 1 Afrique
-https://ddy6new.newkso.ru/ddy6/premium486/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-2-afrique.png" group-title="AFRICA",Canal+ Sport 2 Afrique
-https://ddy6new.newkso.ru/ddy6/premium487/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="CANAL+.Sport.2.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-2-poland.png" group-title="POLAND",Canal+ Sport 2 Poland
-https://ddy6new.newkso.ru/ddy6/premium73/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-4-afrique.png" group-title="AFRICA",Canal+ Sport 4 Afrique
-https://ddy6new.newkso.ru/ddy6/premium489/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-5-afrique.png" group-title="AFRICA",Canal+ Sport 5 Afrique
-https://ddy6new.newkso.ru/ddy6/premium490/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-france.png" group-title="FRANCE",Canal+ Sport France
-https://windnew.newkso.ru/wind/premium122/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="CANAL+.Sport.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus-sport-poland.png" group-title="POLAND",Canal+ Sport Poland
-https://windnew.newkso.ru/wind/premium48/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="Canal+.Sport.360.fr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/canal-plus.png" group-title="FRANCE",Canal+ Sport360
-https://windnew.newkso.ru/wind/premium464/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cartoon-network.png" group-title="UNITED STATES",Cartoon Network
 https://nfsnew.newkso.ru/nfs/premium339/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
@@ -994,32 +1059,6 @@ https://nfsnew.newkso.ru/nfs/premium696/mono.m3u8|Referer=https%3A%2F%2Fchimerac
 #EXTINF:-1 tvg-id="CookingChannel.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cooking-channel.png" group-title="UNITED STATES",Cooking Channel USA
 https://dokko1new.newkso.ru/dokko1/premium697/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="COSMOTE.Sport.1.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-1.png" group-title="GREECE",Cosmote Sport 1 HD
-https://dokko1new.newkso.ru/dokko1/premium622/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="COSMOTE.Sport.2.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-2.png" group-title="GREECE",Cosmote Sport 2 HD
-https://dokko1new.newkso.ru/dokko1/premium623/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="COSMOTE.Sport.3.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-3.png" group-title="GREECE",Cosmote Sport 3 HD
-https://dokko1new.newkso.ru/dokko1/premium624/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="COSMOTE.Sport.4.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-4.png" group-title="GREECE",Cosmote Sport 4 HD
-https://dokko1new.newkso.ru/dokko1/premium625/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="COSMOTE.Sport.5.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-5.png" group-title="GREECE",Cosmote Sport 5 HD
-https://dokko1new.newkso.ru/dokko1/premium626/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="COSMOTE.Sport.6.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-6.png" group-title="GREECE",Cosmote Sport 6 HD
-https://dokko1new.newkso.ru/dokko1/premium627/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="COSMOTE.Sport.7.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-7.png" group-title="GREECE",Cosmote Sport 7 HD
-https://dokko1new.newkso.ru/dokko1/premium628/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="COSMOTE.Sport.8.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-8.png" group-title="GREECE",Cosmote Sport 8 HD
-https://dokko1new.newkso.ru/dokko1/premium629/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="COSMOTE.Sport.9.HD.gr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/cosmote-sport-9.png" group-title="GREECE",Cosmote Sport 9 HD
-https://dokko1new.newkso.ru/dokko1/premium630/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 #EXTINF:-1 tvg-id="Court.TV.US.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/court-tv.png" group-title="UNITED STATES",Court TV USA
 https://ddy6new.newkso.ru/ddy6/premium281/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
@@ -1072,20 +1111,6 @@ https://dokko1new.newkso.ru/dokko1/premium348/mono.m3u8|Referer=https%3A%2F%2Fch
 #EXTINF:-1 tvg-id="Destination.America.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/destination-america.png" group-title="UNITED STATES",Destination America
 https://dokko1new.newkso.ru/dokko1/premium651/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="Diema.bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/diema.png" group-title="BULGARIA",Diema Bulgaria
-https://ddy6new.newkso.ru/ddy6/premium482/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="Diema.Family.bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/diema-family.png" group-title="BULGARIA",Diema Family Bulgaria
-https://windnew.newkso.ru/wind/premium485/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="DIEMA.SPORT.2.bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/diema-sport-2.png" group-title="BULGARIA",Diema Sport 2 Bulgaria
-https://windnew.newkso.ru/wind/premium466/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="DIEMA.SPORT.3.bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/diema-sport-3.png" group-title="BULGARIA",Diema Sport 3 Bulgaria
-https://windnew.newkso.ru/wind/premium467/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="DIEMA.SPORT.bg" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/diema-sport-bulgaria.png" group-title="BULGARIA",Diema Sport Bulgaria
-https://windnew.newkso.ru/wind/premium465/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 #EXTINF:-1 tvg-id="Digi.Sport.1.ro" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/digi-sport-1.png" group-title="ROMANIA",Digi Sport 1 Romania
 https://top2new.newkso.ru/top2/premium400/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
@@ -1673,9 +1698,6 @@ https://windnew.newkso.ru/wind/premium129/mono.m3u8|Referer=https%3A%2F%2Fchimer
 
 #EXTINF:-1 tvg-id="Polsat.Sport.pl" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/polsat-sport-poland.png" group-title="POLAND",Polsat Sport Poland
 https://windnew.newkso.ru/wind/premium47/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
-
-#EXTINF:-1 tvg-id="Porto.Canal.HD.pt" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/porto-canal-portugal.png" group-title="PORTUGAL",Porto Canal Portugal
-https://ddy6new.newkso.ru/ddy6/premium718/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 #EXTINF:-1 tvg-id="Premiere..br" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/premiere-brazil.png" group-title="BRAZIL",Premier Brazil
 https://windnew.newkso.ru/wind/premium88/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
