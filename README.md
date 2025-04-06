@@ -225,28 +225,28 @@ https://windnew.newkso.ru/wind/premium276/mono.m3u8|Referer=https%3A%2F%2Fchimer
 https://windnew.newkso.ru/wind/premium376/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="SAUDI ARABIA",SSC Sport 1
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/ssc1.png" group-title="SAUDI ARABIA",SSC Sport 1
 https://ddy6new.newkso.ru/ddy6/premium614/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="SAUDI ARABIA",SSC Sport 2
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/ssc2.png" group-title="SAUDI ARABIA",SSC Sport 2
 https://ddy6new.newkso.ru/ddy6/premium615/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="SAUDI ARABIA",SSC Sport 3
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/ssc3.png" group-title="SAUDI ARABIA",SSC Sport 3
 https://ddy6new.newkso.ru/ddy6/premium616/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="SAUDI ARABIA",SSC Sport 4
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/ssc4.png" group-title="SAUDI ARABIA",SSC Sport 4
 https://ddy6new.newkso.ru/ddy6/premium617/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-5.jpg" group-title="SAUDI ARABIA",SSC Sport 5
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/ssc5.png" group-title="SAUDI ARABIA",SSC Sport 5
 https://ddy6new.newkso.ru/ddy6/premium618/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-extra-2.jpg" group-title="SAUDI ARABIA",SSC Sport Extra 1
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/SSC-Extra-1.png" group-title="SAUDI ARABIA",SSC Sport Extra 1
 https://dokko1new.newkso.ru/dokko1/premium619/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-extra-2.jpg" group-title="SAUDI ARABIA",SSC Sport Extra 2
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/SSC-Extra-2.png" group-title="SAUDI ARABIA",SSC Sport Extra 2
 https://dokko1new.newkso.ru/dokko1/premium620/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ssc-sports-extra-2.jpg" group-title="SAUDI ARABIA",SSC Sport Extra 3
+#EXTINF:-1 tvg-id="test" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/SSC-Extra-3.png" group-title="SAUDI ARABIA",SSC Sport Extra 3
 https://dokko1new.newkso.ru/dokko1/premium621/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
 #EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/itv-1-uk.png" group-title="UNITED KINGDOM",ITV 1 UK
