@@ -859,17 +859,17 @@ https://dokko1new.newkso.ru/dokko1/premium833/mono.m3u8|Referer=https%3A%2F%2Fch
 #EXTINF:-1 tvg-id="TVA.Sports.3.ca" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tva-sports-2.png" group-title="CANADA",TVA Sports 2
 https://dokko1new.newkso.ru/dokko1/premium834/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
 
-#EXTINF:-1 tvg-id="Digi.Sport.1.ro" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/digi-sport-1.png" group-title="ROMANIA",Digi Sport 1 Romania
-https://top1new.newkso.ru/top1/premium400/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+#EXTINF:-1 tvg-id="Digi.Sport.1.ro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu16e2jrNktUCq6Mkir1Dr3LolR2OjtJh-Kxw5mEqdKWosRgKl8H7-pSn35XeymtZMn0c&usqp=CAU" group-title="ROMANIA",Digi Sport 1 Romania
+https://nfsnew.newkso.ru/nfs/premium400/mono.m3u8?|Referer=https://webxzplay.cfd&Origin=https://webxzplay.cfd&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 
-#EXTINF:-1 tvg-id="Digi.Sport.2.ro" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/digi-sport-2.png" group-title="ROMANIA",Digi Sport 2 Romania
-https://top1new.newkso.ru/top1/premium401/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+#EXTINF:-1 tvg-id="Digi.Sport.2.ro" tvg-logo="https://www.coolstreaming.us/img/ch/image39730317658.jpg" group-title="ROMANIA",Digi Sport 2 Romania
+https://nfsnew.newkso.ru/nfs/premium401/mono.m3u8?|Referer=https://webxzplay.cfd&Origin=https://webxzplay.cfd&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 
-#EXTINF:-1 tvg-id="Digi.Sport.3.ro" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/digi-sport-3.png" group-title="ROMANIA",Digi Sport 3 Romania
-https://top1new.newkso.ru/top1/premium402/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+#EXTINF:-1 tvg-id="Digi.Sport.3.ro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUrlr4qhQhmGvgp04M0Vb_XupgE8_Ttw0d9GZM6Nd9iLK8Tb_9eGPUR5f9Ru0WcPnHpYs&usqp=CAU" group-title="ROMANIA",Digi Sport 3 Romania
+https://nfsnew.newkso.ru/nfs/premium402/mono.m3u8?|Referer=https://webxzplay.cfd&Origin=https://webxzplay.cfd&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 
-#EXTINF:-1 tvg-id="Digi.Sport.4.ro" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/digi-sport-4.png" group-title="ROMANIA",Digi Sport 4 Romania
-https://top1new.newkso.ru/top1/premium403/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+#EXTINF:-1 tvg-id="Digi.Sport.4.ro" tvg-logo="https://www.coolstreaming.us/img/ch/image59616610408.jpg" group-title="ROMANIA",Digi Sport 4 Romania
+https://nfsnew.newkso.ru/nfs/premium403/mono.m3u8?|Referer=https://webxzplay.cfd&Origin=https://webxzplay.cfd&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3
 
 
 
